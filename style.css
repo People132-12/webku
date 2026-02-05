@@ -1,4 +1,14 @@
-body
-{
+body{
  backgrond-color:white;
+ color:black;
+ width:100%;
+ font-family:arial;
+ margin:0 auto;
+}
+.header{
+   width:80%;
+   margin:auto;
+   line-height:120px;
+   background:#f10;
+   color:#ff;
 }
