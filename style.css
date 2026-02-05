@@ -1,14 +1,16 @@
 body{
- backgrond-color:white;
+ background-color:white;
  color:black;
  width:100%;
  font-family:arial;
  margin:0 auto;
 }
 .header{
-   width:80%;
+   width:90%;
    margin:auto;
+   height:120px;
    line-height:120px;
    background:#f10;
    color:#ff;
 }
+
