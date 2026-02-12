@@ -11,6 +11,10 @@ body{
    height:120px;
    line-height:120px;
    background:#f10;
-   color:#ff;
+   color:#fff;
+}
+
+.jarak{
+ padding:0 2pc;
 }
 
