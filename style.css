@@ -13,8 +13,15 @@ body{
    background:#f10;
    color:#fff;
 }
-
 .jarak{
  padding:0 2pc;
 }
-
+.menu{
+  background-color:417aa8;
+  width:90%;
+  margin:auto;
+  position:relative;
+  height:50px;
+  line-height:50px;
+  paddding:auto;
+}
